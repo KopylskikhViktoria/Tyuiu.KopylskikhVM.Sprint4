@@ -1,3 +1,7 @@
 <Solution>
-  <Folder Name="/Task0/" />
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.KopylskikhVM.Sprint4.Task0.V9.Lib/Tyuiu.KopylskikhVM.Sprint4.Task0.V9.Lib.csproj" Id="5b3ae122-a6be-4588-9b79-305c3d88c0a1" />
+    <Project Path="Tyuiu.KopylskikhVM.Sprint4.Task0.V9.Test/Tyuiu.KopylskikhVM.Sprint4.Task0.V9.Test.csproj" Id="406be942-d097-4811-bf0a-1d15876af130" />
+    <Project Path="Tyuiu.KopylskikhVM.Sprint4.Task0.V9/Tyuiu.KopylskikhVM.Sprint4.Task0.V9.csproj" Id="1da86aa0-39de-4b47-bd66-ba7da05d057f" />
+  </Folder>
 </Solution>
